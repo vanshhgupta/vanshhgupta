@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vanshhgupta
 - 👀 I’m currently opting bachlors in techonolgy from DTU 
-- 🌱 I’m currently learning coding languauges
+- 🌱 I’m currently learning java and c++
 
 <!---
 vanshhgupta/vanshhgupta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
