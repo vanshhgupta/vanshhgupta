@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vanshhgupta
-- 👀 I’m currently opting bachlors in techonolgy from DTU 
+- 👀 I’m currently pursuing b.tech from DTU 
 - 🌱 I’m currently learning java and c++
 
 <!---
