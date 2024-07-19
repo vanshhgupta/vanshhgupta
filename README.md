@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vansh Gupta</h1>
-<h3 align="center">Hiii, I am Vansh Gupta, currently pursuing my B.Tech in Engineering Physics at DTU</h3>
+<h3 align="center">Hiii, I am Vansh Gupta, currently pursuing my B.Tech in Engineering Physics at DTU. With an insatiable curiosity and a drive to explore the latest advancements, I immerse myself in the realms of AI, ML, electronics, web development and beyond. While I diligently master Data Structures and Algorithms like any other engineer, my hunger for knowledge propels me to seek new horizons and embrace diverse opportunities. Let's connect and collaborate to shape a future where innovation knows no bounds! 💡🌟</h3>
 
 - 🌱 I’m currently learning **Machine learning and web development**
 
