@@ -1,4 +1,4 @@
--h1 align="center">Hi 👋, I'm Vansh Gupta</h1>
+<-h1 align="center">Hi 👋, I'm Vansh Gupta</h1>
 <h3 align="center">Hiii, I am Vansh Gupta, currently pursuing my B.Tech in Engineering Physics at DTU</h3>
 
 - 🌱 I’m currently learning **Machine learning and web development**
